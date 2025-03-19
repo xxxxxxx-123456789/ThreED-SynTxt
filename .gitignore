@@ -1,0 +1,39 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.env
+.venv/
+env/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# IDE files
+.vscode/
+.idea/
+
+# MacOS Files
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Temp files
+*.tmp
+
+# Secret / Environment Variables
+.env
+*.secret
+
+# Build files
+dist/
+build/
+*.egg-info/
+
+# Ignore local files
+local_settings.py
